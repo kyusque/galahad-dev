@@ -1,0 +1,3 @@
+[submodule "Galahad"]
+	path = Galahad
+	url = git@github.com:kyusque/Galahad.git
